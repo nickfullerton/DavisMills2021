@@ -19,7 +19,7 @@ This is an anaylsis of Davis Mills in the year 2021
 
 ### Built With  
 
-* [collections](https://github.com/plotly/dash](https://docs.python.org/3/library/collections.html)
+* [collections](https://docs.python.org/3/library/collections.html)
 * [json](https://docs.python.org/3/library/json.html)
 
 
